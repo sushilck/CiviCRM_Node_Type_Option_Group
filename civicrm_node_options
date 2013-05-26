@@ -1,0 +1,12 @@
+name = CiviCRM Node Type Option Group
+description = Allows for selected content types in Drupal to be Option Groups in CiviCRM.
+core = 7.x
+package = CiviCRM
+dependencies[] = civicrm
+
+; Information added by drupal.org packaging script on 2013-04-18
+version = "7.x-1.0"
+core = "7.x"
+project = "civicrm_node_options"
+datestamp = "1366264602"
+
